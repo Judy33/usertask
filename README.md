@@ -1,5 +1,6 @@
 # usertask
 app里面的第三方任务上传界面h5版demo
+技术栈： vue vuex axios router iview
 demo截图
 
 ![image](https://github.com/Judy33/usertask/raw/master/1.png)
